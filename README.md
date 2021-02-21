@@ -18,7 +18,8 @@ Please add link of best resources to learn and contributing repositories here fo
 Please add link of best resources to learn and contributing repositories here for Blockchain.
 
 ### Algorithm and Data Structures
-Please add link of best resources to learn and contributing repositories here for Algorithm and Data Structures.
+- [Algo_Ds Notes](https://github.com/jainaman224/Algo_Ds_Notes.git)
+- [FreeCodeCamp](https://github.com/EbookFoundation/free-programming-books.git)
 
 ### Data Science
 Please add link of best resources to learn and contributing repositories here for Data Science.
